@@ -2,8 +2,8 @@
 
 The Entrance of function is 'stock_prediction.py', 'weight-10000eps' is weight file for model, 'forward-sample3' is the current data for predicting input
 
-we have a list of 286 choices, but in demo day I only suggest the four I pick(sometimes the output is weired for the abnormal data input)
-(TEL,RTN,TXN,T)
+we have a list of 286 choices, but in demo day I suggest the four I pick(sometimes the output is weired for the abnormal data input)
+(TEL,RTN,TXN,T).I think most of the choice should be work
 
 currently, we need to type in the stock name, but when integrated we can make it into a function to call
 
